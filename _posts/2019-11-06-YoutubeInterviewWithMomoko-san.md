@@ -2,7 +2,7 @@
 layout: post
 title: "도쿄 리포트 현 아나운서 겸 컨설팅 PR 대표 모모코상과의 돌직구 인터뷰"
 date: 2019-11-06
-categories: foo
+
 ---
 
 
