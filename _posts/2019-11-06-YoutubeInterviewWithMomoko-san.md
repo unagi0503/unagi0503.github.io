@@ -2,9 +2,18 @@
 layout: post
 title: "도쿄 리포트 현 아나운서 겸 컨설팅 PR 대표 모모코상과의 돌직구 인터뷰"
 date: 2019-11-06
-
+category: general
+tags: [일본, 후쿠시마, 원전, 모모코]
 ---
 
+{% comment %}
+=======================
+The purpose of this snippet is to list all the tags you have in your site.
+=======================
+{% endcomment %}
+{% for tag in tags %}
+	<a href="#{{ tag | slugify }}"> {{ tag }} </a>
+{% endfor %}
 
 <h5>도쿄 리포트 현 아나운서 겸 컨설팅 PR 대표 모모코상과의 돌직구 인터뷰</h5>
 
